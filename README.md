@@ -55,7 +55,7 @@ Talk to me about:
 - Solving Data structure and algorithm questions in **C, C++ and Python**.
 	
 
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinc3nt&layout=compact">
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vineetkrgupta&layout=compact">
 ## <Hello World!! 🐱‍👤 />
 - 💬 Ask me about anything an everything.
 - 📫I sometime's scrible my thoughts at : [Vineet's Blog](https://medium.com/@vineet-kumar-gupta).
