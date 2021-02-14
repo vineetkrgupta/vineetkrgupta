@@ -69,7 +69,7 @@ Talk to me about:
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b> :)</em>
 
 Wanna collaborate with me ? Have something to discuss ?
-## [Meet me here 🤝](#https://calendly.com/vineetkumargupta/discussion) 
+## [Meet me here 🤝](https://calendly.com/vineetkumargupta/discussion) 
 
 
 <h3> Here are some 🦜 parrots to give you wingggs ,  yo! man lets flyyy ;)</h3>
