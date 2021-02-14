@@ -3,10 +3,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-@gupta_v1n33t-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@gupta_v1n33t)](https://twitter.com/@gupta_v1n33t) [![Linkedin Badge](https://img.shields.io/badge/-vineet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineet-kumar-gupta/)](https://www.linkedin.com/in/vineet-kumar-gupta/) [![Medium Badge](https://img.shields.io/badge/-@vineet-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vineet-kumar-gupta)](https://medium.com/@vineet-kumar-gupta)  [![Gmail Badge](https://img.shields.io/badge/-vk779756@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vk779756@gmail.com)
 ](mailto:vk779756@gmail.com)[ 
 ![GitHub Thaiane](https://img.shields.io/github/followers/vineetkrgupta?label=follow&style=social)](https://github.com/vineetkrgupta)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vinc3nt)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vineetkumargupta)
 
 <img align='right' src='https://camo.githubusercontent.com/2daa5a3f385c1ede09c109bb121875bb7738b99dffb43683bdf272ac5dd3dd0a/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966' width='350"'>
-I am Vineet Kumar Gupta 😃. I am currently living in  Kota, Rajasthan 🏫.I love to explore learn , break and create things. 
+I am Vineet Kumar Gupta 😃.<br>
+I am currently living in  Kota, Rajasthan 🏫.<br>
+I love to explore learn , break and create things. <br>
 
 
 
