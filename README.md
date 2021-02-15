@@ -40,7 +40,7 @@ I love to explore learn , break and create things. <br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 * I'm currently working on 🔭 building **Interactive News Ecosystem** The beta version is live  here🌱 in **[Technologypy.ml](https://technologypy.ml/)**.
- * Also, I've got a **Instagram page, [Technology.py](https://www.youtube.com/channel/UC93iDkRpMT-RKKQ6miQn4dg)**. It's part of the ecosystem and is completely automated ( Hail web automation open source and cloud ) Be sure to check it out don't forget to follow :)
+ * Also, I've got a **Instagram page, [Technology.py](https://www.instagram.com/technology.py/)**. It's part of the ecosystem and is completely automated ( Hail web automation open source and cloud ) Be sure to check it out don't forget to follow :)
  *  *DIY Projects to Tutorials*  I love to play with electronics sensors and what not ! 
 
 ## ⚡ Technologies
